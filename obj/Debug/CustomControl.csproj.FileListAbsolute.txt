@@ -1,0 +1,11 @@
+D:\DEV\Custom Control\CustomControl\bin\Debug\CustomControl.pdb
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.Form1.resources
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.Properties.Resources.resources
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.cache
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.csproj.CoreCompileInputs.cache
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.pdb
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.csproj.AssemblyReference.cache
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.QAnhControl.TxtBox.resources
+D:\DEV\Custom Control\CustomControl\bin\Debug\CustomControl.dll.config
+D:\DEV\Custom Control\CustomControl\bin\Debug\CustomControl.dll
+D:\DEV\Custom Control\CustomControl\obj\Debug\CustomControl.dll

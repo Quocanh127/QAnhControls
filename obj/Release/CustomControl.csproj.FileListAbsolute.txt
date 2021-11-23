@@ -1,0 +1,9 @@
+D:\DEV\Custom Control\CustomControl\bin\Release\QAnh.CustomControls.dll.config
+D:\DEV\Custom Control\CustomControl\bin\Release\QAnh.CustomControls.dll
+D:\DEV\Custom Control\CustomControl\bin\Release\QAnh.CustomControls.pdb
+D:\DEV\Custom Control\CustomControl\obj\Release\QAnh.Properties.Resources.resources
+D:\DEV\Custom Control\CustomControl\obj\Release\QAnh.QAnhControl.TxtBox.resources
+D:\DEV\Custom Control\CustomControl\obj\Release\CustomControl.csproj.GenerateResource.cache
+D:\DEV\Custom Control\CustomControl\obj\Release\CustomControl.csproj.CoreCompileInputs.cache
+D:\DEV\Custom Control\CustomControl\obj\Release\QAnh.CustomControls.dll
+D:\DEV\Custom Control\CustomControl\obj\Release\QAnh.CustomControls.pdb
